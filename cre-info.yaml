@@ -1,0 +1,9 @@
+# cre-catalog:v1
+id: example-book
+owner: user:jahicks@mitre.org
+kind: Publication
+spec:
+  src: book
+  title: Quarto Book Publication Example
+  authors: [user:jahicks@mitre.org]
+  framework: quarto
